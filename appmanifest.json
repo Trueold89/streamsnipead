@@ -1,6 +1,6 @@
 ﻿{
-	"name": "SSPlugin",
-	"short_name": "SSOBS",
+	"name": "StreamSnipePlugin",
+	"short_name": "StreamSnipePlugin",
 	"start_url": "index.html",
 	"display": "standalone",
 	"orientation": "any",
